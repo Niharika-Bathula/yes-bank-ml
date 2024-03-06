@@ -23,6 +23,8 @@ Found that there is a rather high correlation between our independent variables.
 
 Implemented several models on our dataset in order to be able to predict the closing price and found that all our models are performing remarkably well and knn regressor is the best performing model with A R2 score value of 0.993115 and scores well on all evaluation metrics.
 
+![image](https://github.com/Niharika-Bathula/yes-bank-ml/assets/142409759/3947ad54-e874-46bf-80bd-8703b2cdd17a)
+
 
  
 
