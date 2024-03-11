@@ -25,6 +25,12 @@ Implemented several models on our dataset in order to be able to predict the clo
 
 ![image](https://github.com/Niharika-Bathula/yes-bank-ml/assets/142409759/3947ad54-e874-46bf-80bd-8703b2cdd17a)
 
+Conducted comprehensive bivariate and multivariate analyses to explore relationships between variables, gaining insights into underlying patterns and dynamics within the dataset.
+
+Employed advanced regression methodologies including K-Nearest Neighbors (KNN), Lasso, Ridge and Elastic Net regression, leveraging their respective strengths to optimize predictive performance and mitigate overfitting.
+
+Demonstrated exceptional predictive accuracy with the KNN regressor model, achieving an outstanding R2 score of 0.993115, indicative of its superior performance and potential practical application in real-world scenarios.
+
 
  
 
